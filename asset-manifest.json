@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ROE-Website/static/css/main.d853e846.chunk.css",
+    "main.js": "/ROE-Website/static/js/main.7e499694.chunk.js",
+    "main.js.map": "/ROE-Website/static/js/main.7e499694.chunk.js.map",
+    "runtime-main.js": "/ROE-Website/static/js/runtime-main.5b919e98.js",
+    "runtime-main.js.map": "/ROE-Website/static/js/runtime-main.5b919e98.js.map",
+    "static/js/2.8fb8510d.chunk.js": "/ROE-Website/static/js/2.8fb8510d.chunk.js",
+    "static/js/2.8fb8510d.chunk.js.map": "/ROE-Website/static/js/2.8fb8510d.chunk.js.map",
+    "static/css/3.077d4451.chunk.css": "/ROE-Website/static/css/3.077d4451.chunk.css",
+    "static/js/3.28d5cfc5.chunk.js": "/ROE-Website/static/js/3.28d5cfc5.chunk.js",
+    "static/js/3.28d5cfc5.chunk.js.map": "/ROE-Website/static/js/3.28d5cfc5.chunk.js.map",
+    "static/css/4.29e41d80.chunk.css": "/ROE-Website/static/css/4.29e41d80.chunk.css",
+    "static/js/4.edddecb3.chunk.js": "/ROE-Website/static/js/4.edddecb3.chunk.js",
+    "static/js/4.edddecb3.chunk.js.map": "/ROE-Website/static/js/4.edddecb3.chunk.js.map",
+    "index.html": "/ROE-Website/index.html",
+    "precache-manifest.dcd67b777c60ac2cd8fb5f43f159e0ba.js": "/ROE-Website/precache-manifest.dcd67b777c60ac2cd8fb5f43f159e0ba.js",
+    "service-worker.js": "/ROE-Website/service-worker.js",
+    "static/css/3.077d4451.chunk.css.map": "/ROE-Website/static/css/3.077d4451.chunk.css.map",
+    "static/css/4.29e41d80.chunk.css.map": "/ROE-Website/static/css/4.29e41d80.chunk.css.map",
+    "static/css/main.d853e846.chunk.css.map": "/ROE-Website/static/css/main.d853e846.chunk.css.map",
+    "static/js/2.8fb8510d.chunk.js.LICENSE.txt": "/ROE-Website/static/js/2.8fb8510d.chunk.js.LICENSE.txt",
+    "static/media/img1.png": "/ROE-Website/static/media/img1.f6857361.png",
+    "static/media/index.css": "/ROE-Website/static/media/oboik.ru_7114.92a351cf.jpg",
+    "static/media/preloader.gif": "/ROE-Website/static/media/preloader.2b02159f.gif",
+    "static/media/user.png": "/ROE-Website/static/media/user.6a6f6ed7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b919e98.js",
+    "static/js/2.8fb8510d.chunk.js",
+    "static/css/main.d853e846.chunk.css",
+    "static/js/main.7e499694.chunk.js"
+  ]
+}
