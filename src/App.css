@@ -1,0 +1,43 @@
+.app-wrapper {
+    margin: 0 auto;
+    display: grid;
+    width: 1420px;
+    grid-template-areas: 
+    "h h " 
+    "n c";
+
+    grid-template-rows: 70px 1fr;
+    grid-template-columns: 2fr 10fr;
+    /* grid-gap: 10px; */
+}
+
+.app-wrapper-content {
+    grid-area: c;
+    margin-left: 20px;
+    width: 900px;
+    margin-top: 20px;
+    min-height: 600px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 0px 3px 1px rgba(155, 155, 155, 0.5);
+    background-color:rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+/*
+
+/messages
+/dialogs
+
+/dialogs/3
+/dialogs/2
+
+*/

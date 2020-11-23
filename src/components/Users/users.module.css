@@ -1,0 +1,31 @@
+.usersPage{
+margin-left: 35px;
+}
+.userPhoto {
+     width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 10px 0 10px 0;
+}
+
+.userPageBtn{
+   min-width: 70px;
+   height:30px; 
+   outline: none;
+   direction: none;
+    background-color: rgba(78, 125, 185, 0.973);
+    border-radius: 4px;
+    font-size: 17px;
+    font-weight: 550;
+    margin: 10px 10px 20px 0 ;
+    cursor: pointer;
+}
+.userPageBtn:hover{
+    background-color: rgba(147, 178, 218, 0.973);
+}
+.userName{
+font-size: 20px;
+text-align: left;
+font-weight: 600;
+}
+

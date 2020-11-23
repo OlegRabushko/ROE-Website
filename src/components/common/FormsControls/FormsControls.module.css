@@ -1,0 +1,84 @@
+.formControl.error input,
+.formControl.error textarea
+{
+    border: solid red 3px;
+    border-radius: 4px;
+}
+.formControl{
+  
+}
+
+.formControl.error span
+{
+    color: red;
+    font-size: 16px;
+}
+
+.input{
+    width: 300px;
+    height: 25px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.checkbox{
+   font-size: 20px; 
+}
+.loginFon{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+}
+.loginContainer{
+    width: 650px;
+    height: 500px;
+    background-color: #fff;
+    margin-top: 80px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.textLogin{
+    margin: 20px 0 10px;
+font-size: 45px;
+font-weight: 700;
+
+}
+.loginBtn{
+    width: 100px;
+    height: 35px;
+    direction: none;
+    outline: none;
+    background-color: rgb(0, 24, 68);
+    color: #fff;
+    border-radius: 5px;
+    margin-top:20px;
+    font-size: 25px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.loginBtn:hover{
+    background-color: rgb(2, 54, 150); 
+}
+
+.profileDataBtn{
+    width: 80px;
+    height: 30px;
+    outline: none;
+    background-color: rgb(0, 24, 68);
+    color: #fff;
+    border-radius: 5px;
+    margin-top:10px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.profileDataBtn:hover{
+    background-color: rgb(2, 54, 150); 
+}

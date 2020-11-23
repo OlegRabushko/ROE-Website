@@ -1,0 +1,51 @@
+.dialogs {
+display: flex;
+justify-content: space-between;
+}
+
+.dialogsItems {
+    padding: 10px;
+    color: white;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.messages {
+    padding: 10px;
+    margin-top: 10px;
+  
+}
+
+    
+
+.dialog{
+    min-height: 30px;
+    width: 200px;
+    border: 1px solid grey;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 0px 10px;
+    margin-right: 300px;
+    
+
+}
+
+.dialogUser {
+  color: #000;
+  margin: 10px;
+  
+}
+
+.photoUsers{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+.photoUsers:hover{
+    border: 2px solid rgb(15, 0, 83);
+    width: 76px;
+    height: 76px;
+}
