@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ROE-Website/precache-manifest.dcd67b777c60ac2cd8fb5f43f159e0ba.js"
+  "/ROE-Website/precache-manifest.808cb8c72e90771f5132247d3ed5d897.js"
 );
 
 self.addEventListener('message', (event) => {
